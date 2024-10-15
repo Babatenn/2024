@@ -1,2 +1,2 @@
-function sayhello61(){aleart('hello, Function!');}
-function saygoodbye61(){aleart('Goodbye!');}
+function sayhello61(){alert('hello, Function!');}
+function saygoodbye61(){alert('Goodbye!');}
