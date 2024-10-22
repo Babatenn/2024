@@ -1,4 +1,5 @@
 var who65='world';
+var who66='が来た';
 function sayhello65(){
   alert('Hello,'+who65+'!');
 }
