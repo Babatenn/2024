@@ -8,5 +8,3 @@ function taro65(){
 function hanako65(){
   who65='花子';
 }
-function sayhello65(){
-  alert('が来た,'+who65+'!');
