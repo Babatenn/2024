@@ -1,3 +1,2 @@
-function imgchange5(){document.getElementById('mark').src='./image/pottaishi.png';}
-function imgchange6(){document.getElementById('mark').src='./image/pottyama.png';}
-
+function imgchange5(){document.getElementById('pokemon').src='./image/pottaishi.png';}
+function mes2(){document.getElementById('pokemon').src='./image/pottyama.png';}
